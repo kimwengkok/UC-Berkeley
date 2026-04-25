@@ -1,0 +1,4 @@
+Group,Description,Coupon Type,# of Offers,Acceptance Rate
+1,Bar >1×/month + passenger ≠ Kid(s) + maritalStatus ≠ Widowed,Bar only,551,71.30%
+2,Bar >1×/month + age < 30,Bar only,335,73.10%
+3,Restaurant(<20) >4×/month + income < $50K,All coupons,"1,729",60.30%
